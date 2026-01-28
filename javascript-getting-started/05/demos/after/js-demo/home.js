@@ -1,2 +1,1 @@
-
-showMessage('help');
+alert("Hello World!");
